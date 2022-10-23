@@ -1,3 +1,3 @@
-#Excercise #2 
+Excercise #2 
 
 work on css selectors 
