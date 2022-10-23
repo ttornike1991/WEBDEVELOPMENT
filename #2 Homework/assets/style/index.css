@@ -1,0 +1,9 @@
+.part-one{color: green;}
+.part-one > a{text-decoration: none;color: green;}
+.part-two span{color:red}
+.part-three .background-yellow{background-color: yellow;}
+.part-three  .background-pink{background-color: pink;}
+.part-four .background-yellow {background-color: yellow;}
+.part-four .background-pink{background-color: pink;}
+.part-four article .red-text{color: red;}
+.part-four article .blue-text{color: blue;}

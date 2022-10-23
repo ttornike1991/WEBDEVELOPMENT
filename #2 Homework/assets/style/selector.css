@@ -1,0 +1,43 @@
+header h1{
+    letter-spacing: 10px;
+  }
+  
+span {
+    background-color: red;
+  }
+div.red {
+    background-color: red;
+  }
+  
+.blue {
+    background-color: blue;
+  }
+  
+.purple{
+    background-color: purple;
+  }
+  
+.red, .blue, .purple {
+    float: left;
+    width: 100px;
+    height: 100px;
+  }
+  
+#green-border {
+    border: solid 4px green;
+  }
+  
+input:first-child{
+    border: solid 2px black;
+    border-radius: 10px;
+  }
+  
+input:nth-child(2){
+    border: solid 3px gray;
+    border-radius: 5px;
+  }
+  
+  /* This selector should stay here */
+  form {
+    clear: left;
+  }
